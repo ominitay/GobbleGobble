@@ -1,7 +1,7 @@
-#include <stdio>
+#include <stdio.h>
 
-int main()
+int main(void)
 {
-    printf!("Dennis Ritchie is coming to gobble your toes!!!");
-    main();
+    puts("Dennis Ritchie is coming to gobble your toes!!!");
+    return main();
 }
